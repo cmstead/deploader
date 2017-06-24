@@ -1,0 +1,28 @@
+{
+  "name": "deploader",
+  "version": "1.0.0",
+  "description": "A configurable dynamic filesystem dependency loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmstead/deploader.git"
+  },
+  "keywords": [
+    "dependency",
+    "loader",
+    "filesystem",
+    "access"
+  ],
+  "author": "Chris Stead",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/cmstead/deploader/issues"
+  },
+  "homepage": "https://github.com/cmstead/deploader#readme",
+  "dependencies": {
+    "signet": "^3.14.0"
+  }
+}
